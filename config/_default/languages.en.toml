@@ -20,9 +20,3 @@ bio = ""
 [[params.author.links]]
 email = "mailto:jakob.v.g.hald@gmail.com"
 linkedin = "https://linkedin.com/in/jakob-geishauser-hald-11a2922b5"
-
-#["params.author"]
-#name = "Jakob Hald"
-#email = "jakob.v.g.hald@gmail.com"
-#headline = "Problem and solution oriented designer"
-
