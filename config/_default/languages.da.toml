@@ -1,0 +1,28 @@
+languageCode = "da"
+languageName = "Dansk"
+weight = 1
+title = "geis.haus"
+
+[params]
+displayName = "DA"
+isoCode = "da"
+rtl = false
+description = "geis.haus hjemmeside"
+dateFormat = "2 January 2006"
+logo = ""
+
+[params.author]
+name = "Jakob Geishauser Hald"
+image = "img/frontportrait.png"
+headline = "Problem- og løsningsorientet designer"
+bio = ""
+
+[[params.author.links]]
+email = "mailto:jakob.v.g.hald@gmail.com"
+linkedin = "https://linkedin.com/in/jakob-geishauser-hald-11a2922b5"
+
+#["params.author"]
+#name = "Jakob Geishauser Hald"
+#email = "jakob.v.g.hald@gmail.com"
+#headline = "Problem- og løsningsorientet designer"
+
