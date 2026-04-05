@@ -6,8 +6,8 @@ tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
 date: 2023-12-10
-draft: false
-showFeatured: true
+draft: true
+showFeatured: false
 ---
 {{< carousel images="cover/*" aspectRatio="16-16" interval="3000" >}}
 

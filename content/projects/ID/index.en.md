@@ -1,17 +1,16 @@
 ---
 title: "Anxiety reducing lamp"
-summary: "This project started at a recycling station, where we found garden hoses that were meant for landfill. We chose to make a chair out of the garden hoses instead."
+summary: "A small portable lamp that fits in the palm of your hand, to let you have a nice and calming light."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-01-25
 draft: false
-showFeatured: true
+showFeatured: false
 ---
-{{< carousel images="cover/*" aspectRatio="16-16" interval="3000" >}}
+This lamp solves a problem of being stuck in a room, lit up by blue fluorescent light. The lamp is small enough, that you can transport it anywhere you like and big enough to light up a room with a warm and relaxing light.
 
-The workflow of this project is illustrated in the gallery below.
+The project was done in university course, and the following report shows my workflow.
 
-{{< carousel images="work/*" aspectRatio="16-16" interval="3000" >}}
-
+{{< pdf src="/pdf/id.pdf" >}}
