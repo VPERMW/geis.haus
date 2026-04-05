@@ -1,13 +1,13 @@
 [[main]]
 name = "Projekter"
 pageRef = "/projects"
-weight = 50
+weight = 10
 
 [[main]]
 identifier = "linkedin"
 pre = "linkedin"
 url = "https://linkedin.com/in/jakob-geishauser-hald-11a2922b5"
-weight = 10
+weight = 50
 
 
 [[footer]]

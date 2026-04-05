@@ -1,17 +1,20 @@
 ---
 title: "A map for homeless people"
-summary: "This project started at a recycling station, where we found garden hoses that were meant for landfill. We chose to make a chair out of the garden hoses instead."
+summary: "Homeless women often have trouble finding a toilet. We created a map that maps all the toilets in Copenhagen and gives important information for homeless people"
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
 date: 2023-12-10
-draft: true
+draft: false
 showFeatured: false
 ---
-{{< carousel images="cover/*" aspectRatio="16-16" interval="3000" >}}
+Homeless women often have trouble finding a toilet. We created a map that maps all the toilets in Copenhagen and gives important information for homeless people
 
-The workflow of this project is illustrated in the gallery below.
+The two sides of the maps can be seen below.
 
-{{< carousel images="work/*" aspectRatio="16-16" interval="3000" >}}
+![Alt text](Forside.jpg) 
 
+![Alt text](bagside.jpg) 
+
+The project was made in the first course i had at university about user-centered design.

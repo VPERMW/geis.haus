@@ -1,27 +1,26 @@
 ---
 title: "KOLT"
-summary: "KOLT is a box that allows you to keep food and beverages cold during hot festival days. It was sponsored by Roskilde Festival and Maté Maté."
+summary: "KOLT er en boks, der giver dig mulighed for at holde mad og drikkevarer kolde under varme festivaldage. Den blev sponsoreret af Roskilde Festival og Maté Maté."
 categories: ["Post","Blog",]
 #externalUrl: ""
 #showSummary: true
 date: 2025-06-25
 draft: false
+showFeatured: true
 ---
-{{< youtubeLite id="1E-OCdI9_Ic" label="Blowfish-tools demo" >}}
+KOLT blev skabt som en mekatronisk løsning for Roskilde Festival til at holde mad og øl kolde og aflåste. Formålet med projektet er, at brugeren lejer den ved en bod på Roskilde Festival, hvorefter personen kan tilføje sine venner til de tilladte personer, der kan låse køleboksen op. Den giver også brugeren mulighed for at overvåge temperaturen og status for køleboksen.
 
+Den blev sponsoreret af både Roskilde Festival og Maté Maté. Køleboksen blev testet i løbet af ugen på Roskilde Festival.
 
+Følgende reklamevideo blev lavet for KOLT.
+{{< youtubeLite id="1E-OCdI9_Ic" label="Kolt" >}}
 
-## Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna. Nulla venenatis volutpat libero, in laoreet leo fringilla eget. Etiam consequat sed nisi sit amet interdum. Pellentesque ullamcorper at turpis in ultrices. Pellentesque et elit mauris. Aenean eu augue sit amet nunc interdum ultricies. Aenean eleifend consectetur sapien vitae consectetur. Donec risus mauris, finibus at condimentum at, lacinia sit amet neque. Nulla facilisi. Suspendisse sollicitudin dolor quis eros tempor, a tempus ex varius.
-{{< carousel images="carousel/*" aspectRatio="16-16" interval="2500" >}}
-## Nunc non leo non magna
-Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus porttitor bibendum. In pharetra ullamcorper metus quis mollis. Mauris bibendum, est in commodo hendrerit, dolor purus hendrerit dolor, at pharetra sapien erat sit amet ante. Etiam aliquet euismod libero, vel tincidunt felis mollis at. Sed scelerisque, tortor in convallis auctor, elit quam consectetur lacus, quis posuere risus libero non sem. Mauris sagittis nisi id aliquam lacinia. Vivamus finibus velit sed condimentum aliquet. Nullam in ante a erat lacinia semper. Curabitur pretium justo at leo maximus, quis dignissim nulla posuere. Donec eget consectetur neque, et mattis dui. Vivamus at mi enim. Nullam et nisi est. Nullam eget eros blandit, convallis odio eget, ornare enim.
+Projektet blev lavet til et kursus, hvor viden inden for både maskin- og elektroteknik blev anvendt. Boksen blev designet i Fusion, og elektronikken er baseret på en ESP32, og koden er skrevet til Arduino.
 
-## Quisque ultricies
-Quisque ultricies tincidunt sem nec tincidunt. Aenean nibh diam, dapibus varius ornare nec, suscipit ut arcu. Integer ut elit sollicitudin, fermentum ipsum nec, tempus eros. Donec hendrerit facilisis maximus. Pellentesque eu mi ipsum. Vivamus diam tellus, varius sed dolor at, finibus tempus lorem. Morbi sed mauris quis enim vehicula hendrerit. Sed et sollicitudin est. Maecenas scelerisque ligula ac purus gravida, et feugiat nibh blandit. Integer id quam ac arcu convallis interdum eget sed libero. Aliquam varius est quis efficitur efficitur. Cras id turpis magna. Aenean cursus, libero auctor ullamcorper vestibulum, nisl risus consectetur nisi, ut molestie enim libero sed ipsum.
+{{< carousel images="carousel/*" aspectRatio="16-16" interval="3000" >}}
 
-## Etiam sollicitudin
-Etiam sollicitudin, ante ac fermentum varius, lorem ante congue mi, auctor dictum magna sem sed nibh. In et est id neque gravida aliquet quis a felis. Mauris tempor lectus ut gravida ornare. Curabitur at elementum tortor, in feugiat elit. Aenean auctor diam ut egestas rhoncus. Quisque tristique venenatis risus vitae suscipit. Nunc feugiat purus sed dolor gravida, non ullamcorper metus suscipit. Sed et tortor odio. Pellentesque at scelerisque nulla. In ut aliquam metus. Vivamus congue augue at pellentesque rhoncus. Donec a lectus tincidunt, aliquet libero sit amet, commodo arcu. Vivamus hendrerit quis augue eu lacinia. Sed sodales velit condimentum eros varius vulputate.
+Jeg er meget stolt af, hvordan projektet endte; både æstetisk og teknisk. Projektet blev gennemført i en gruppe, der startede med 8, men et af medlemmerne var ikke til stede i den sidste halvdel af projektet.
 
-## Proin tempor lorem
-Proin tempor lorem quam, ac maximus lectus sodales et. Sed laoreet orci vel metus luctus lobortis. Nam ex velit, vehicula id tristique sed, blandit eu nisi. Quisque semper libero nec massa malesuada congue. In faucibus lorem at diam fringilla, vel viverra magna lobortis. Ut commodo est urna, ut aliquet enim sagittis ut. Nulla posuere arcu sed lobortis accumsan. Phasellus fringilla dolor id est lobortis feugiat. Quisque enim elit, faucibus a mauris non, mattis aliquet orci. Nunc sagittis viverra erat, id condimentum lacus suscipit quis.
+Den endelige rapport for projektet kan findes nedenfor.
+
+{{< pdf src="/pdf/KOLT.pdf" >}}

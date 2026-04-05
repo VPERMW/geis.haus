@@ -1,16 +1,16 @@
 ---
-title: "Upcycled chair"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+title: "Redesign af en akutleje for bedre hygiejne"
+summary: "Dette projekt sigter mod at skabe en mere hygiejnisk akutleje ved at gøre den lettere at rengøre."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2025-08-22
+date: 2024-06-25
 draft: false
-showFeatured: true
+showFeatured: false
 ---
+Akutlejer kan være tilbøjelige til at få snavs og blod ind i uønskede sprækker, og på grund af materialspecifikationer kan de ikke rengøres i industrielle vaskemaskiner. Dette projekt sigtede mod at redesigne en akutleje (OPUS 1280) for at gøre den lettere at vedligeholde og rengøre ved at minimere unødvendige overflader.
 
-![Alt text](galery/b.jpeg "Image caption") 
+Projektet blev udført i samarbejde med KR Able, og den endelige rapport kan findes nedenfor.
 
-
-{{< carousel images="galery/*" aspectRatio="16-16" interval="2500" >}}
+{{< pdf src="/pdf/OPUS.pdf" >}}

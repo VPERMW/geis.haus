@@ -1,6 +1,6 @@
 ---
-title: "Upcycled chair"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+title: "Upcycled stol"
+summary: "Dette projekt startede på en genbrugsstation, hvor vi fandt haveslanger, der var bestemt til lossepladsen. Vi valgte i stedet at lave en stol ud af haveslangerne."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
@@ -9,8 +9,8 @@ date: 2025-08-22
 draft: false
 showFeatured: true
 ---
+{{< carousel images="cover/*" aspectRatio="16-16" interval="3000" >}}
 
-![Alt text](galery/b.jpeg "Image caption") 
+Arbejdsprocessen for dette projekt er illustreret i galleriet nedenfor.
 
-
-{{< carousel images="galery/*" aspectRatio="16-16" interval="2500" >}}
+{{< carousel images="work/*" aspectRatio="16-16" interval="3000" >}}

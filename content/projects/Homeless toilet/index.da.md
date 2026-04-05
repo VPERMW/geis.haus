@@ -1,11 +1,11 @@
 ---
-title: "Upcycled chair"
+title: "Et kort for hjemløse"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2025-08-22
+date: 2023-12-10
 draft: false
 showFeatured: true
 ---

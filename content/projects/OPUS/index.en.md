@@ -1,6 +1,6 @@
 ---
-title: "Redesigning emergeny etretcher for better hygiene"
-summary: "This project started at a recycling station, where we found garden hoses that were meant for landfill. We chose to make a chair out of the garden hoses instead."
+title: "Redesigning emergeny stretcher for better hygiene"
+summary: "This project aims at making a more hygeinic emergency stretcher by making it easier to clean."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
@@ -9,9 +9,11 @@ date: 2024-06-25
 draft: false
 showFeatured: false
 ---
-{{< carousel images="cover/*" aspectRatio="16-16" interval="3000" >}}
+Emergency stretchers can be prone to getting dirt and blood into unwanted crevasses, and due to material specifications, it can't be cleaned in industrial washers. This project aimed at redesiging an emergeny stretcher (OPUS 1280) in order to make it easier to maintian and clean by minimizing unnecessary surfaces. 
 
-The workflow of this project is illustrated in the gallery below.
+The project was done in collaboration with KR Able, and the final report can be found below.
 
-{{< carousel images="work/*" aspectRatio="16-16" interval="3000" >}}
+{{< pdf src="/pdf/OPUS.pdf" >}}
+
+
 

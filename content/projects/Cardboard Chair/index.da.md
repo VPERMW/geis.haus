@@ -1,28 +1,27 @@
 ---
-title: "Cardboard Chair"
-summary: "This chair is made of glued-together cardboard. The individual slats are put together by fitting them. It is surprisingly strong and fun to sit on."
+title: "Papstol"
+summary: "Denne stol er lavet af sammenlimet pap. De individuelle lameller er samlet ved at passe dem ind i hinanden. Den er overraskende stærk og sjov at sidde på."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
 date: 2025-08-08
 draft: false
-showFeatured: true
 ---
 
-{{< carousel images="gallery/*" aspectRatio="16-11" interval="2500" >}}
+{{< carousel images="gallery/*" aspectRatio="16-11" interval="3000" >}}
 
-#### Prologue
-This was the first project that I did at the Scandinavian Design College, but it turned out to be one of my favourite.  
+#### Prolog
+Dette var det første projekt, jeg lavede på Den Skandinaviske Designhøjskole, men det endte med at blive et af mine yndlingsprojekter.
 
-We started out by making a small model of the chair, in order to test out the strength and visual look of the chair. The model was succesful, and you could even sit on it which we didn't expect.  
+Vi startede med at lave en lille model af stolen for at teste dens styrke og visuelle udtryk. Modellen var en succes, og man kunne endda sidde på den, hvilket vi ikke havde forventet.
 
-This design was done in collaboration with my friend Selma.
+Dette design blev lavet i samarbejde med min veninde Selma.
 
-![Alt text](photos/e.jpeg) 
+![Alternativ tekst](photos/e.jpeg) 
 
 #### Fremgangsmåde
-It was made by gluing together 2 mm cardboard on top of eachother, in order to add strength. Later on it was cut into the wanted shapes in order, that were previously drawn up on paper as a template. The shapes were put togehter in a rectangular slats pattern. 
+Den blev lavet ved at lime 2 mm pap oven på hinanden for at tilføje styrke. Senere blev det skåret ud i de ønskede former, som tidligere var tegnet op på papir som en skabelon. Formerne blev samlet i et rektangulært lamelmønster.
 
 {{< gallery >}}
   <img src="photos/f.jpeg" class="grid-w80 md:grid-w60 xl:grid-w45" />
@@ -30,5 +29,5 @@ It was made by gluing together 2 mm cardboard on top of eachother, in order to a
   <img src="photos/i.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
-#### Epilogue
-I started out by having the chair in my room, but it suddenly dissappeared. I accused Selma of stealing it. It wasn't until the final week, where i learned that my roommate Rasmus and Selma had collaborated in stealing the chair. The chair is now in my parents apartment.
+#### Epilog
+Jeg startede med at have stolen på mit værelse, men pludselig forsvandt den. Jeg beskyldte Selma for at have stjålet den. Det var først i den sidste uge, at jeg fandt ud af, at min roommate Rasmus og Selma havde samarbejdet om at stjæle stolen. Stolen står nu i mine forældres lejlighed.

@@ -1,16 +1,16 @@
 ---
-title: "Upcycled chair"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+title: "Angstreducerende lampe"
+summary: "En lille bærbar lampe, der passer i din håndflade, og som giver dig et behageligt og beroligende lys."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2025-08-22
+date: 2024-01-25
 draft: false
-showFeatured: true
+showFeatured: false
 ---
+Denne lampe løser problemet med at sidde fast i et rum, der er oplyst af blåt lysstofrør. Lampen er lille nok til, at du kan transportere den hvor som helst, og stor nok til at oplyse et rum med et varmt og afslappende lys.
 
-![Alt text](galery/b.jpeg "Image caption") 
+Projektet blev lavet i et universitetskursus, og den følgende rapport viser min arbejdsproces.
 
-
-{{< carousel images="galery/*" aspectRatio="16-16" interval="2500" >}}
+{{< pdf src="/pdf/id.pdf" >}}

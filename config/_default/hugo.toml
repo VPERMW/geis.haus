@@ -20,13 +20,19 @@ enableEmoji = true
     languageName = "English"
     languageCode = "en"
     languageDirection = "ltr" # Left-to-right
-    weight = 1 # Order in the switcher
+    weight = 100 # Order in the switcher
 
   [languages.da]
     languageName = "Dansk"
     languageCode = "da"
     languageDirection = "ltr"
-    weight = 2
+    weight = 20
+
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de"
+    languageDirection = "ltr"
+    weight = 1
 
 [taxonomies]
   tag = "tags"

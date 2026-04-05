@@ -1,6 +1,6 @@
 ---
-title: "Woven chair"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+title: "Regneskoven"
+summary: "Dette projekt havde til formål at hjælpe små børn med at forstå geometri og matematik."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
@@ -8,6 +8,8 @@ tags: ["post","lorem","ipsum"]
 date: 2022-09-05
 draft: false
 showFeatured: false
----
 
-{{< carousel images="gallery/*" aspectRatio="16-16" interval="2500" >}}
+---
+{{< iframe src="https://regneskoven.casperberthelsen.com/" title="regneskoven (p5.js)" >}}
+
+Dette projekt havde til formål at hjælpe små børn med at forstå geometri og matematik. Det blev kodet i p5.js
