@@ -1,16 +1,20 @@
 ---
 title: "Et kort for hjemløse"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+summary: "Hjemløse kvinder har ofte svært ved at finde et toilet. Vi har lavet et kort, der viser alle toiletter i København og giver vigtig information til hjemløse."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
 date: 2023-12-10
 draft: false
-showFeatured: true
+showFeatured: false
 ---
+Hjemløse kvinder har ofte svært ved at finde et toilet. Vi har lavet et kort, der viser alle toiletter i København og giver vigtig information til hjemløse.
 
-![Alt text](galery/b.jpeg "Image caption") 
+Kortets to sider kan ses herunder.
 
+![Alternativ tekst](Forside.jpg) 
 
-{{< carousel images="galery/*" aspectRatio="16-16" interval="2500" >}}
+![Alternativ tekst](bagside.jpg) 
+
+Projektet blev lavet i det første kursus, jeg havde på universitetet, om brugercentreret design.
