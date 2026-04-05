@@ -13,8 +13,8 @@ showFeatured: false
 
 Dette projekt blev udført på Designskolen i et samarbejde mellem Produktdesign og Tekstildesign. Jeg fik til opgave sammen med min veninde Amalie at bruge følgende stol til at skabe en ny og mere spændende stol, der hentede inspiration fra Kenneth Rasmussens arbejde.
 
-<img src="Z.jpeg" width="400" height="200">
+![Alt text](Z.jpeg) 
 
 Vi brugte to dage på at researche Kenneth Rasmussen, og hvordan vi kunne bringe hans stil ind i vores design. Vi besluttede at følge hans ikoniske flettestil og genbruge gamle tekstiler og plastik til at flette ind imellem metal-"stængerne".
 
-<img src="ZZ.jpeg" width="400" height="200">
+![Alt text](ZZ.jpeg) 

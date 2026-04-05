@@ -13,8 +13,8 @@ showFeatured: false
 
 This project was completed at the Danish College of Design, in a collaboration between Product Design and Textile Design. I was tasked together with my friend Amalie to use the following chair in order to create a new and more exciting chair that took inspiration from the work of Kenneth Rasmussen.
 
-<img src="Z.jpeg" width="400" height="200">
+![Alt text](Z.jpeg) 
 
 We did two days of research of Kenneth Rasmussen and how we should bring his style into our design. We decided to follow his iconic weaving style and reusing old fabrics and plastics to weave in between the metal "bars".
 
-<img src="ZZ.jpeg" width="400" height="200">
+![Alt text](ZZ.jpeg) 
