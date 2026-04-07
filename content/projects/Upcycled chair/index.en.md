@@ -7,7 +7,7 @@ tags: ["post","lorem","ipsum"]
 #showSummary: true
 date: 2025-08-22
 draft: false
-showFeatured: true
+showFeatured: false
 ---
 {{< carousel images="cover/*" aspectRatio="16-16" interval="3000" >}}
 

@@ -7,7 +7,7 @@ tags: ["post","lorem","ipsum"]
 #showSummary: true
 date: 2023-12-10
 draft: false
-showFeatured: false
+showFeatured: true
 ---
 Hjemløse kvinder har ofte svært ved at finde et toilet. Vi har lavet et kort, der viser alle toiletter i København og giver vigtig information til hjemløse.
 

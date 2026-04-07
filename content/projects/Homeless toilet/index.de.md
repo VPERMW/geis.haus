@@ -7,7 +7,7 @@ tags: ["post","lorem","ipsum"]
 #showSummary: true
 date: 2023-12-10
 draft: false
-showFeatured: false
+showFeatured: true
 ---
 Obdachlose Frauen haben oft Schwierigkeiten, eine Toilette zu finden. Wir haben eine Karte erstellt, die alle Toiletten in Kopenhagen verzeichnet und wichtige Informationen für obdachlose Menschen enthält.
 

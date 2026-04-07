@@ -7,7 +7,7 @@ tags: ["post","lorem","ipsum"]
 #showSummary: true
 date: 2023-12-10
 draft: false
-showFeatured: false
+showFeatured: true
 ---
 Homeless women often have trouble finding a toilet. We created a map that maps all the toilets in Copenhagen and gives important information for homeless people
 
