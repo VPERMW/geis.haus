@@ -20,21 +20,25 @@ Terrace pedestals let you lay a raised tile terrace without pouring a concrete f
 - **Concept development** - several directions explored before converging on a single interlocking grid concept
 - **Full-scale validation** - a 3D-printed 1.2 × 1 m prototype, built and rebuilt outdoors to test and refine the design
 
+![Alternativ tekst](proces.png) 
+
 ### Key findings
 - Fine-adjustment alone accounted for most of the ~53 minutes it took to lay the reference terrace
 - The reference product's plastic spacer tabs broke repeatedly under tile weight
 - Adjusting one foot easily threw off its neighbours
 
+![Alternativ tekst](test.png) 
+
 ### The solution
 A pre-assembled grid of feet and beams that click together with simple clips before any tile is placed, so the whole foundation is stabilised as one structure rather than dozens of independent points.
-- Feet adjust 110-180 mm in height with an ordinary screwdriver
 - Beams telescope to fit any tile size
 - Clip-on end profiles finish the exposed edge
 - A mounting rod clamps a laser receiver directly to the grid, so every foot is measured against the same reference height
 
+![Alternativ tekst](final.png) 
+
 ### Result
 - **27% faster installation** than the reference product (38.5 vs. 53 minutes)
-- A geometric fix (rotating a clip connection 90°) eliminated play between beams and feet
 - A rubber coating stopped tiles sliding on the feet
 
 Still a concept rather than a market-ready product - external user testing, injection-moulding optimisation, and a wood-terrace variant are the logical next steps.

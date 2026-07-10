@@ -20,10 +20,14 @@ Terrassenstelzen ermöglichen das Verlegen einer erhöhten Fliesenterrasse, ohne
 - **Konzeptentwicklung** - mehrere Richtungen wurden untersucht, bevor sie sich zu einem einzigen ineinandergreifenden Gitterkonzept verdichteten
 - **Maßstabsgetreue Validierung** - ein 3D-gedruckter 1,2 × 1 m Prototyp, im Freien auf- und abgebaut, um das Design zu testen und zu verfeinern
 
+![Alternativ tekst](proces.png) 
+
 ### Wichtigste Erkenntnisse
 - Allein die Feinjustierung machte den Großteil der rund 53 Minuten aus, die für die Referenzterrasse benötigt wurden
 - Die Kunststoff-Abstandshalter des Referenzprodukts brachen wiederholt unter dem Gewicht der Fliesen
 - Die Justierung eines Fußes brachte leicht die Nachbarfüße aus der Ausrichtung
+
+![Alternativ tekst](test.png) 
 
 ### Die Lösung
 Ein vormontiertes Gitter aus Füßen und Trägern, das sich mit einfachen Clips zusammenklicken lässt, bevor auch nur eine Fliese platziert wird - sodass das gesamte Fundament als eine Struktur stabilisiert wird statt als viele unabhängige Punkte.
@@ -32,6 +36,8 @@ Ein vormontiertes Gitter aus Füßen und Trägern, das sich mit einfachen Clips 
 - Aufsteckbare Abschlussprofile geben der sichtbaren Kante einen sauberen Abschluss
 - Eine Montagestange erlaubt es, einen Laserempfänger direkt am Gitter zu befestigen, sodass jeder Fuß gegen dieselbe Referenzhöhe gemessen wird
 
+![Alternativ tekst](final.png) 
+
 ### Ergebnis
 - **27 % schnellere Installation** als das Referenzprodukt (38,5 gegenüber 53 Minuten)
 - Eine geometrische Lösung (Drehung einer Clip-Verbindung um 90°) beseitigte das Spiel zwischen Trägern und Füßen
@@ -39,7 +45,6 @@ Ein vormontiertes Gitter aus Füßen und Trägern, das sich mit einfachen Clips 
 
 Noch ein Konzept und kein marktreifes Produkt - externe Nutzertests, eine Optimierung für Spritzguss und eine Variante für Holzterrassen sind die naheliegenden nächsten Schritte.
 
-{{< carousel images="carousel/*" aspectRatio="16-16" interval="3000" >}}
 
 Der Abschlussbericht für das Projekt findet sich unten.
 
